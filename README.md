@@ -1,2 +1,2 @@
 # Mon projet de machine learning 
-**Projet Machine learning M2_EIED UPPA**
+**Projet Machine learning M2_EIED UPPA**  (*Public pour quelque temps*)
